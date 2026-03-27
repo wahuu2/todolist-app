@@ -5,13 +5,27 @@ This project helps users organize daily tasks with an intuitive interface and mi
 
 ---
 
-## 🚀 Features
+## 🧑‍🍳 App Features Overview
 
-- ➕ Add new tasks with a title or description  
-- ✅ Mark tasks as complete  
-- 🗑️ Delete tasks you no longer need  
-- 🎨 Light/Dark theme support using Expo’s theme context  
-- 📱 Runs seamlessly on **Android, iOS, and Web**  
+- 📝 **Todos Tab**
+
+  - ➕ Add new tasks
+  - ✅ Mark as completed / uncompleted
+  - 📝 Edit existing tasks
+  - 🗑️ Delete tasks
+  - 📊 Live **progress bar** at the top
+
+- ⚙️ **Settings Tab**
+
+  - 📈 View task stats (total, completed, remaining)
+  - 🌙 Toggle **Dark Mode** (actually works!)
+  - 🔔 Notification toggle (UI only)
+  - 🔄 Auto-sync toggle (UI only)
+  - 🚨 **Danger Zone** to delete everything
+
+- 🔄 **Real-Time Sync**
+  - All updates reflect **instantly** across devices
+  - Powered by **Convex** database
 
 ---
 

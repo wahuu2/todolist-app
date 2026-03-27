@@ -1,4 +1,21 @@
-# Welcome to your Expo app 👋
+# 📝 TodoList App (React Native + Expo)
+
+A simple, clean, and cross‑platform **task management app** built with **React Native and Expo**.  
+This project helps users organize daily tasks with an intuitive interface and minimal design.
+
+---
+
+## 🚀 Features
+
+- ➕ Add new tasks with a title or description  
+- ✅ Mark tasks as complete  
+- 🗑️ Delete tasks you no longer need  
+- 🎨 Light/Dark theme support using Expo’s theme context  
+- 📱 Runs seamlessly on **Android, iOS, and Web**  
+
+---
+
+## 📂 Project Setup
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
